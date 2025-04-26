@@ -44,8 +44,7 @@ RunFlow helps teams define repeatable operations — then actually run them.
 
 This project is currently in **early beta** and available by request.
 
-👉 [Request early access](https://your-site-or-form.com)  
-👉 Or [read the launch post](https://medium.com/@rbrooks33/runbooks-that-actually-run-themselves-f620b76752a3)
+👉 [Request early access](https://docs.google.com/forms/d/e/1FAIpQLSdbXm7TO6Vo9gjkIzFZOonoRVbz_YZ0xDWAKyG95MFzj5RWvQ/viewform?usp=header)  
 
 ---
 
@@ -59,6 +58,5 @@ If this idea speaks to you, **star this repo** to follow along and show support!
 
 ## 📬 Contact
 
-Have ideas? Want to try it in your team?  
-Open a [discussion](https://github.com/YOUR_USER/YOUR_REPO/discussions) or reach out:  
-📧 [your@email.com]
+Have ideas? Want to try it in your team? reach out:  
+📧 [assistance90@live.com]
